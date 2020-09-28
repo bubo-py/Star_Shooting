@@ -1,5 +1,6 @@
-# Star_Shooting
+# What is it?
+My first game made in python, pygame.
 
-pygame  2.0.0.dev6 
-
-python  3.8.2
+# Dependencies:
+    pygame  2.0.0.dev6 
+    python  3.8.2
